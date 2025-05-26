@@ -1,0 +1,13 @@
+{
+  "name": "proyecto",
+  "version": "1.0.0",
+  "description": "Repositorio del proyecto de BackEnd 2025",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "type": "module",
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
