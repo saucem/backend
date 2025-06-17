@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
-    "devMode": "node --watch entry.js"
+    "devMode": "node --watch app.js"
   },
   "type": "module",
   "keywords": [],

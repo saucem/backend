@@ -1,0 +1,17 @@
+### GET
+GET http://127.0.0.1:5000/api/users
+
+###POST
+POST  http://127.0.0.1:5000/api/users HTTP/1.1
+content-type: application/json
+
+{
+  "name" : "Juan Carlos",
+  "email" : "juancarlos@email.com"
+}
+
+###PUT
+
+
+
+###DELETE
